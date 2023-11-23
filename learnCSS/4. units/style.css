@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+    color: chocolate;
+    text-align: center;
+}
+main{
+    border: 5px solid black;
+    /* width: 50%; */
+    width: 100vw;
+}
+section {
+    border: 5px dotted green;
+    border-radius: 10px;
+    width: 50%;
+}

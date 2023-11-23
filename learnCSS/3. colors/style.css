@@ -1,0 +1,14 @@
+body{
+    background-color: #fdf0d5;
+    color: darkcyan;
+    text-align: center;
+    font-family: Georgia;
+    font-size: 24px;
+}
+article{
+    background-color: #003049;
+    color: #fdf0d5;
+    padding: 40px;
+    margin: 40px ;
+    border-radius: 12px;
+}
