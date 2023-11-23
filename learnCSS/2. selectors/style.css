@@ -1,0 +1,28 @@
+/* *{
+    font-family: fantasy;
+} */
+h1 {
+    text-align: center;
+}
+#first>p{
+    color: green;
+}
+
+
+body{
+    font-size: 20px;
+    background-color: wheat;
+}
+#first, #second{
+    color:red;
+}
+.purple{
+    color:purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.highlight{
+    background-color: yellow;
+    font-weight: bolder;
+    font-style: italic;
+}
